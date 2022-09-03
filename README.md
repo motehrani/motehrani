@@ -1,16 +1,14 @@
 ### Hi there 👋
+## I am a junior Front-End developer
 
-<!--
-**motevalit/motevalit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Languages:
+`JavaScript` | `TypeScript`
 
-Here are some ideas to get you started:
+#### Technologies:
+`JavaScript` | `TypeScript` | `ReactJS` | `HTML5` | `CSS3` | `Redux` | `Styled-Components` | `Git` | `SASS`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+* * *
+- 📫 How to reach me: 
+  - Email: [h.@gmail.com](mailto:qafoori.hr@gmail.com)
+  - Whatsapp: [(+98) 939 866 4858](https://wa.me/989398664858?text=Hello%20Hassan%2C%20I%27m%20coming%20from%20your%20Github%20profile)
